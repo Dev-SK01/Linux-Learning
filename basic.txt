@@ -251,7 +251,7 @@
                                         
                                         JOB CONTROLS
                                         BG --> BACK GROUND + recent added jobs
-                                        FG --> FORE GROUND fg to fore ground 
+                                        FG --> FORE GROUND fg to fore ground forfround and 
                                                    
                                         
                                        
